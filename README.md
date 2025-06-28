@@ -63,7 +63,7 @@ I've worked on deep learning, computer vision, and AI-driven automation using to
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Transformers" style="width: 40px; height: 40px;">
   </a>
   <a href="https://n8n.io/" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*AStWN4a7jcZvlCOE4mAtLA.png" alt="n8n" style="width: 40px; height: 40px;">
+  <img src="https://browserflow.io/images/N8N-badge.png" alt="n8n" style="width: 40px; height: 40px;">
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 40px; height: 40px;">
